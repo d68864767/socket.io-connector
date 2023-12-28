@@ -1,0 +1,26 @@
+{
+  "name": "socket.io-connector",
+  "version": "1.0.0",
+  "description": "Your package description here",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yourusername/socket.io-connector.git"
+  },
+  "keywords": [
+    "socket.io",
+    "connector"
+  ],
+  "author": "Your Name <your.email@example.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yourusername/socket.io-connector/issues"
+  },
+  "homepage": "https://github.com/yourusername/socket.io-connector#readme",
+  "dependencies": {
+    "socket.io": "^latest_version"
+  }
+}
